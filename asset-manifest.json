@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React_robofriends_PWA/static/css/main.ae9a00fc.chunk.css",
-    "main.js": "/React_robofriends_PWA/static/js/main.63dfb678.chunk.js",
-    "main.js.map": "/React_robofriends_PWA/static/js/main.63dfb678.chunk.js.map",
+    "main.js": "/React_robofriends_PWA/static/js/main.b2e945e2.chunk.js",
+    "main.js.map": "/React_robofriends_PWA/static/js/main.b2e945e2.chunk.js.map",
     "runtime-main.js": "/React_robofriends_PWA/static/js/runtime-main.5d6f63d1.js",
     "runtime-main.js.map": "/React_robofriends_PWA/static/js/runtime-main.5d6f63d1.js.map",
     "static/css/2.c1f4f5f4.chunk.css": "/React_robofriends_PWA/static/css/2.c1f4f5f4.chunk.css",
@@ -11,6 +11,8 @@
     "static/js/3.51a78388.chunk.js": "/React_robofriends_PWA/static/js/3.51a78388.chunk.js",
     "static/js/3.51a78388.chunk.js.map": "/React_robofriends_PWA/static/js/3.51a78388.chunk.js.map",
     "index.html": "/React_robofriends_PWA/index.html",
+    "service-worker.js": "/React_robofriends_PWA/service-worker.js",
+    "service-worker.js.map": "/React_robofriends_PWA/service-worker.js.map",
     "static/css/2.c1f4f5f4.chunk.css.map": "/React_robofriends_PWA/static/css/2.c1f4f5f4.chunk.css.map",
     "static/css/main.ae9a00fc.chunk.css.map": "/React_robofriends_PWA/static/css/main.ae9a00fc.chunk.css.map",
     "static/js/2.74e1cb26.chunk.js.LICENSE.txt": "/React_robofriends_PWA/static/js/2.74e1cb26.chunk.js.LICENSE.txt",
@@ -21,6 +23,6 @@
     "static/css/2.c1f4f5f4.chunk.css",
     "static/js/2.74e1cb26.chunk.js",
     "static/css/main.ae9a00fc.chunk.css",
-    "static/js/main.63dfb678.chunk.js"
+    "static/js/main.b2e945e2.chunk.js"
   ]
 }
